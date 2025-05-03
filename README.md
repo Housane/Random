@@ -38,6 +38,8 @@ We will use the hotkey for Update Project (Ctrl + T) download the latest version
 How do I have a file on my local IDLE, and not have it automatically be uploaded into GitHub? 
 If we want to ignore say ALL pdf files, we do *.pdf 
 
+### Tutorial Videos 
+https://www.youtube.com/watch?v=-_g3QITLaQA [Stopped at 10 min]
 
 
 
