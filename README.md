@@ -29,6 +29,13 @@ Commit => The saving of a snapshot of changes to the Version Control System (VCS
 Click the Commit 'icon', which is just a circle with a line passing inbetweem 
 Click on the box so it will be ticked 
 We will write our commit message, and then you will have two options namely commit/commit and push to repository 
+Once it is pushed, it can be seen on Github 
+
+### How to ensure that files which were made on Github can also be updated simultaneously into your IDLE?
+We will use the hotkey for Update Project (Ctrl + T) download the latest version 
+
+
+
 
 
 
