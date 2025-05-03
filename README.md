@@ -34,6 +34,10 @@ Once it is pushed, it can be seen on Github
 ### How to ensure that files which were made on Github can also be updated simultaneously into your IDLE?
 We will use the hotkey for Update Project (Ctrl + T) download the latest version 
 
+### Potential Issues/Unresolved Questions 
+How do I have a file on my local IDLE, and not have it automatically be uploaded into GitHub? 
+If we want to ignore say ALL pdf files, we do *.pdf 
+
 
 
 
