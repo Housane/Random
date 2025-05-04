@@ -50,7 +50,7 @@ Branches allow you to work independently/create different workflows without modi
 Changes made in the 'Development' branch will not affect the one in the 'main' branch 
 
 Q: What if there are commits in development branch which you want to appear in the master branch?
-We can choose to MERGE both branches together. Click on the development branch,  
+We can choose to MERGE both branches together. Right Click on the master branch, and then click 'Checkout' *Make sure that all of the changes have been saved and pushed*
 
 
 
