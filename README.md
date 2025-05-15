@@ -55,7 +55,8 @@ We can choose to MERGE both branches together. Click on the development branch,
 ### How to make the changes in development branch (another branch) appear in the master branch?
 We will have to merge the branches together. If we wish to make the changes appear in the master branch, we right click on the development branch
 
-
+### How to import repositories which exist on GitHub but not on PyCharm? 
+File => Close Project (Should Bring you to the main screen) => Clone Repository => Input the link of the repo 
 
 
 
